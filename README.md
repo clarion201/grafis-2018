@@ -107,7 +107,7 @@ Solar System
 
 ### Github Repository
 
-[https://github.com/clarion201/PemrogramanGrafis](https://github.com/clarion201/PemrogramanGrafis)
+[https://github.com/clarion201/PemogramanGrafis](https://github.com/clarion201/PemogramanGrafis)
 
 ## Group VII
 
